@@ -1,5 +1,10 @@
 <?php
-// As funções de registro e página de opções permanecem aqui
+
+function kutt_it_register_settings() {
+    register_setting('kutt_it_options_group', 'kutt_it_api_url');
+    register_setting('kutt_it_options_group', 'kutt_it_api_key');
+}
+add_action('admin_init', 'kutt_it_register_settings');
 
 // Função para verificar a conexão com a API
 function kutt_it_check_api_connection() {
