@@ -1,5 +1,5 @@
 <?php
-
+// Função para registrar as configurações
 function kutt_it_register_settings() {
     register_setting('kutt_it_options_group', 'kutt_it_api_url');
     register_setting('kutt_it_options_group', 'kutt_it_api_key');
@@ -26,6 +26,7 @@ function kutt_it_options_page() {
     <h2>Configurações do Kutt.it</h2>
     <form method="post" action="options.php">
     <?php settings_fields('kutt_it_options_group'); ?>
+    <?php do_settings_sections('kutt_it_options_group'); ?>
     <table>
     <tr valign="top">
     <th scope="row"><label for="kutt_it_api_url">URL da API</label></th>
