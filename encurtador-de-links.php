@@ -30,6 +30,7 @@ function kutt_it_init() {
     include_once(plugin_dir_path(__FILE__) . 'includes/kutt-it-settings.php');
     include_once(plugin_dir_path(__FILE__) . 'includes/kutt-it-functions.php');
     add_action('admin_menu', 'kutt_it_setup_menu');
+    add_action('admin_init', 'kutt_it_register_settings');
 }
 add_action('plugins_loaded', 'kutt_it_init');
 
