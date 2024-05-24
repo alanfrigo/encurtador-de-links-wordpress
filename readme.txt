@@ -1,5 +1,5 @@
 === Encurtador de Links Kutt Api ===
-Contributors: Alan Frigo
+Contributors: alanmf
 Donate link: https://buy.stripe.com/cN2g34g1R0mo1zyaEH
 Tags: url shortener, link shortener, kutt.it, api, link management
 Requires at least: 5.0
