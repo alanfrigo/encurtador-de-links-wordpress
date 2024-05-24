@@ -1,12 +1,3 @@
-## Support
-
-If you find this plugin useful and would like to support its development, you can do so by clicking the link below:
-
-[Support via Stripe](https://buy.stripe.com/9AQaIKbLB2uwcec146)
-
-Thank you for your support!
-
-
 # Encurtador de Links para WordPress com Kutt.it
 
 Este plugin para WordPress permite que você encurte links diretamente do seu painel administrativo usando a API Kutt.it. É uma ferramenta perfeita para blogs, páginas de comércio eletrônico e sites institucionais que necessitam compartilhar URLs encurtadas nas redes sociais, emails ou outros canais de marketing digital.
@@ -42,3 +33,12 @@ Contribuições são bem-vindas! Se você encontrou um bug ou tem uma sugestão 
 ## Licença
 
 Este plugin é distribuído sob a licença GPL-2.0+.
+
+
+## Support
+
+If you find this plugin useful and would like to support its development, you can do so by clicking the link below:
+
+[Support via Stripe](https://buy.stripe.com/9AQaIKbLB2uwcec146)
+
+Thank you for your support!
