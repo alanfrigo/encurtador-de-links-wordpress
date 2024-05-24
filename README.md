@@ -25,6 +25,7 @@ Este plugin para WordPress permite que você encurte links diretamente do seu pa
 2. Carregue o diretório `encurtador-de-links` para o diretório `/wp-content/plugins/` do seu site WordPress.
 3. Ative o plugin através do menu 'Plugins' no WordPress.
 4. Configure o plugin fornecendo a URL da API e a chave API (API Key) do Kutt.it nas configurações do plugin.
+5. ex. URL da API : https://YOURDOMAIN.com/api/v2
 
 ## Configuração
 
